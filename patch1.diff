@@ -1,0 +1,21 @@
+From b44bc9f105e3b84e1a6fee84a3878d5c069b242a Mon Sep 17 00:00:00 2001
+From: Jorge Villalobos <jorgevillalobos@konradgroup.com>
+Date: Wed, 28 Jan 2015 13:57:25 -0600
+Subject: [PATCH] Delete
+
+---
+ AA.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 AA.txt
+
+diff --git a/AA.txt b/AA.txt
+deleted file mode 100644
+index 2028a4f..0000000
+--- a/AA.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2280 0090 safdfsa
+\ No newline at end of file
+-- 
+1.8.3.msysgit.0
+
